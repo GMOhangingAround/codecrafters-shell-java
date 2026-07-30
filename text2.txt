@@ -1,3 +1,0 @@
-pe
-pwd
-history -w "text2.txt"

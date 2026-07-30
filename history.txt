@@ -1,9 +1,0 @@
- 1 echo this
- 2 history -w "t.txt"
- 3 echo add
- 4 echo apple
- 5 history -a "t.txt"
- 6 history -a "t.txt"
- 7 echo hi
- 8 history -a "t.txt"
- 9 exit
